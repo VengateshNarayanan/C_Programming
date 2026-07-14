@@ -1,2 +1,2 @@
-# C_Programming
-programming of c from basic level to advance level with dsa
+# LEARNING DSA IN C LANGUAGE
+## THESE REPOSITORY IS BASED ON DSA IN C WHERE I WILL BE LEARNING IT FROM BASIC TO ADVANCED LEVEL.
